@@ -15,7 +15,10 @@ class Midia:
   █▀    ▄████▀             ███    ███   ██████████  ▄████▀      ████████▀     ▄████▀     ███    █▀     ▄████▀   █▀    ▀██████▀   ▀█   █▀  
                          ███    ███                                                                                                               
 
-                                Programador: @carlosadrianosj
+                                        Programadores: 
+                                       @carlosadrianosj
+                                          @Hornegam
+
                         Programa para enumeração de reputação de IPs
 
 
