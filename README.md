@@ -1,5 +1,5 @@
 # REPUTATION IP TOOL
-Programador: @carlosadrianosj
+Programador: @carlosadrianosj e @Hornegam
 
 Esta ferramenta tem como intuito mapear por meio de uma lista de IPs a sua Reputação.
 O Resultado da pesquisa é demonstrado na tela durante sua execução, todos os dados são salvos
