@@ -18,4 +18,4 @@ Para utilizar a ferramenta é simples, adicione o escopo dentro do arquivo IPs.t
 e execute o comando abaixo.
 
 Execução:
-python3 ip_reputation_intelliway.py
+python3 ip_reputation.py
